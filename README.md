@@ -1,2 +1,5 @@
 # DAI-101-Assignment1
-This repository contains assignment1 of the course DAI - 101 
+
+This repository contains the submission for the Assignment-1 as part of DAI-101 course. The assignment involves data cleaning and Data Cleaning and EDA analysis of a random dataset.
+
+
